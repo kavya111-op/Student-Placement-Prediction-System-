@@ -116,8 +116,10 @@ Kavya Gupta
 
 ---
 
-## ⭐ Project Status
-✅ Completed 
+##  Project Status
+✅ Completed
+
+##Images of Output
 
 <img width="1044" height="739" alt="Screenshot 2026-03-30 004853" src="https://github.com/user-attachments/assets/ed44c665-95fa-4125-b72d-ba5a24362340" />
 <img width="1034" height="746" alt="Screenshot 2026-03-30 004932" src="https://github.com/user-attachments/assets/418631a2-c5f7-4131-acd2-e3241608c7c2" />
