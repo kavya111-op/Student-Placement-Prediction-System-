@@ -16,10 +16,14 @@ It uses a **Random Forest Machine Learning model** and provides an **interactive
 
 ## 🚀 Features
 
-✔ Interactive sliders (Jupyter GUI)
+✔Interactive sliders (Jupyter GUI)
+
 ✔ Instant placement prediction
+
 ✔ Placement probability (%)
+
 ✔ Graph visualization
+
 ✔ Feature importance analysis
 
 ---
